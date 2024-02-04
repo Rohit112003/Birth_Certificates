@@ -15,3 +15,5 @@ The smart contract is deployed on the Ethereum blockchain. The address of the de
 Frontend
 Overview
 The frontend interface is built using React, providing a user-friendly experience for interacting with the birth certificate DApp. Users can issue new certificates, verify existing certificates, and view certificate details through the interface.
+
+Currently working on this project
