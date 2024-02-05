@@ -15,12 +15,12 @@ const Card = () => {
             </div>
             <div className='w-full shadow-xl flex flex-col p-4 my-4  bg-black rounded-lg hover:scale-95 duration-300 '>
                 <img src={changeDetail} className=' rounded-lg w-20 mx-auto mt-[-3rem] bg-white' alt="" />
-                <h1 className='text-l sm:text-xl text-white font-bold text-center py-8'>Change/Correction in PAN Card</h1>
+                <h1 className='text-l sm:text-xl text-white font-bold text-center py-8'>Birth Card Detail</h1>
                 <Link to='/checkDetail'><button className='w-full text-center p-2 rounded-sm hover:font-bold bg-[#00df9a]'>click to apply</button></Link>
             </div>
             <div className='w-full shadow-xl flex flex-col p-4 my-4  bg-black rounded-lg hover:scale-95 duration-300 '>
                 <img src={Download} className=' rounded-lg w-20 h-[60px] mx-auto mt-[-3rem] bg-white' alt="" />
-                <h1 className='text-l sm:text-xl text-white font-bold text-center py-8'>Download e-PAN</h1>
+                <h1 className='text-l sm:text-xl text-white font-bold text-center py-8'>Download BirthCard</h1>
                 <Link><button className='w-full text-center p-2 rounded-sm hover:font-bold bg-[#00df9a]'>click to apply</button></Link>
                 
             </div>
