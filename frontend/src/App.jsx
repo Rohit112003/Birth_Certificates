@@ -6,6 +6,7 @@ import Navbar from './components/Navbar'
 import CheckWork from './pages/CheckWork'
 import PanServices from './components/PanServices'
 import Footer from './components/Footer'
+import BirthDetail from './pages/BirthDetail'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +19,7 @@ function App() {
     <Routes>
     <Route path='/' element={<Home/>}/>
     <Route path='/checkWork' element={<CheckWork/>}/>
+    <Route path='/birthDetail' element={<BirthDetail/>}/>
     </Routes>
     <PanServices/>
       <Footer/>
