@@ -1,5 +1,5 @@
 Birth Certificate DApp
-This decentralized application (DApp) allows for the issuance and verification of birth certificates using the Ethereum blockchain. The smart contract is implemented in Solidity, and the frontend interface is built using React.
+This decentralized application (DApp) allows for the issuance and verification of certificates using the Ethereum blockchain. The smart contract is implemented in Solidity, and the frontend interface is built using React.
 
 Smart Contract
 Overview
